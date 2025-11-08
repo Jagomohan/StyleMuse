@@ -1,0 +1,5 @@
+{
+  "name": "StyleMuse: AI Fashion Stylist",
+  "description": "An AI-powered fashion stylist that analyzes your photo and preferences to generate personalized, shoppable looks. Get expert styling advice, visualize outfits with AI, and even animate your new look into a video.",
+  "requestFramePermissions": []
+}
